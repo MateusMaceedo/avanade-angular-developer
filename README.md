@@ -1,3 +1,3 @@
-<img src="https://www.avanade.com/images/footer/Causewave.svgz" width="220" height="60">
+<img src="https://www.avanade.com/images/footer/Causewave.svgz" width="420" height="80">
 
 ## Avanade Angular Developer
